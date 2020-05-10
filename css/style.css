@@ -1,0 +1,29 @@
+.container .row .col-4 {
+  word-spacing: 10px;
+}
+.container .row .col-4 i {
+  margin-right: 10px;
+  transform: translateY(24%);
+  font-size: 50px;
+  color: gray;
+}
+.container .row .col-4 tr {
+  border-bottom: 1px solid gray;
+}
+.container .row .col-4 img {
+  margin: 10px 5px;
+  width: 100px;
+  height: 100px;
+}
+.container .row .box {
+  text-align: center;
+  width: 500px;
+  height: 300px;
+  background: #d6d5d5;
+  margin: 0 auto;
+}
+.container .row .box span {
+  color: #1f5353;
+  cursor: pointer;
+  font-size: 5rem;
+}
